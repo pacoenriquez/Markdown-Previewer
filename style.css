@@ -1,0 +1,48 @@
+#body {
+  background-color: #154360;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#pEditor{
+  font-family: 'Secular One', sans-serif;
+  font-size: 22px;
+  background-color: #F4D03F;
+  color: #000;
+  height: auto;
+  width: 60%;
+  padding: 10px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #797D7F;
+}
+#editor {
+  width: 60%;
+  height: 200px;
+  padding: 20px;
+  border-style: solid;
+  border-radius: 15px;
+  border-width: medium;
+  border-color: #797D7F;
+}
+#pPreview{
+  margin-top: 50px;
+  font-family: 'Secular One', sans-serif;
+  font-size: 22px;
+  background-color: #F4D03F;
+  color: #000;
+  height: auto;
+  width: 60%;
+  padding: 10px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #797D7F;
+}
+#preview {
+  width: 60%;
+  height: auto;
+  background-color: #EAECEE;
+  padding: 20px;
+}
